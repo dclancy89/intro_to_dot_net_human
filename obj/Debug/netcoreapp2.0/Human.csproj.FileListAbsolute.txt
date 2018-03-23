@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/bin/Debug/netcoreapp2.0/Human.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/bin/Debug/netcoreapp2.0/Human.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/bin/Debug/netcoreapp2.0/Human.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/bin/Debug/netcoreapp2.0/Human.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/bin/Debug/netcoreapp2.0/Human.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/obj/Debug/netcoreapp2.0/Human.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/obj/Debug/netcoreapp2.0/Human.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/obj/Debug/netcoreapp2.0/Human.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/obj/Debug/netcoreapp2.0/Human.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Human/obj/Debug/netcoreapp2.0/Human.pdb
